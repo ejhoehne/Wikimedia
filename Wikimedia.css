@@ -1,0 +1,51 @@
+body {
+	font: 13px/1.5 sans-serif;
+}
+.top {
+	width: 60%;
+	margin: 10px auto;
+	font-size: 150%;
+	
+	
+}
+.second {
+	text-align: right;
+	padding: 0 200px;
+	font-size: 150%;
+}
+.pictures {
+	float: left;
+	display: table; 
+	width: 50%;
+	height: 200px;
+	margin-bottom: 0px;
+	margin-left: 128px;
+	margin-right: 128px;
+	margin-top:0px;
+	padding: 16px 0 0 200px;
+	border-collapse: separate;
+	border-spacing: 2px;
+	border-color gray
+	
+	
+}
+.icon {
+	float: left;
+	width: 25%; 
+	margin: auto;
+	height: 155px;
+	display: inline;
+	
+}
+.footer {
+	float: left;
+	width: 60%;
+	text-align: center;
+	margin: auto;
+	padding: 16px 0 0 250px;
+	
+	
+}
+.link {
+	text-color: blue;
+}
